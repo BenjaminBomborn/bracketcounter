@@ -1,16 +1,18 @@
 {
-	"videoID": "VIDEO ID GOES HERE",
+	"videoID": "https://www.youtube.com/watch?v=s9sWMB49XUA",
 	"names": [
-		"Contestant",
-		"NAMES",
-		"GO",
-		"HERE"
+		"Arts and Crafts",
+		"Spike",
+		"Monocley",
+		"Final Exam",
+		"Emerald"
 	],
 	"colors": [
-		"black",
-		"blue",
+		"red",
+		"light_gray",
 		"yellow",
-		"light_yellow"
+		"light_yellow",
+		"light_green"
 	],
 	"showLatestParsedComment": false,
 	"deadlineAfter": 172800
